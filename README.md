@@ -1,4 +1,4 @@
-# Monday Coffee Data Analysis & City Investment Recommendations
+# Monday Coffee Data Analysis - Solving Business Questions with SQL
 
 This repository contains the SQL scripts and analysis results for a project aimed at identifying the top 3 cities for Monday Coffee to invest in. 
 
